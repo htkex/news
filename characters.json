@@ -17,7 +17,7 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "混乱付与, 貫通"
+        "role": "混乱, 全体攻撃, 貫通"
     },
     {
         "name": "[サタンの微笑み]森羅日下部",
@@ -27,7 +27,7 @@
         "attribute": "悪",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "大炎上付与, アタッカー"
+        "role": "大炎上, 単体攻撃"
     },
     {
         "name": "[いたずらポリス]プリンセス火華",
@@ -37,7 +37,7 @@
         "attribute": "技",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "封印付与, アタッカー"
+        "role": "封印, 全体攻撃"
     },
     {
         "name": "[ペテンな吸血鬼]ジョーカー",
@@ -47,7 +47,7 @@
         "attribute": "知",
         "affiliation": "不明",
         "generation": "不明",
-        "role": "出血付与, アタッカー"
+        "role": "出血, 全体攻撃"
     },
     {
         "name": "[第5特殊消防隊]プリンセス火華",
@@ -57,7 +57,77 @@
         "attribute": "悪",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ"
+        "role": "デバフ, 全体攻撃"
+    },
+    {
+        "name": "[第5特殊消防隊]5thエンジェルス3",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★2",
+        "attribute": "知",
+        "affiliation": "第5特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
+    },
+    {
+        "name": "[第5特殊消防隊]プリンセス火華",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "第5特殊消防隊",
+        "generation": "第三世代",
+        "role": "デバフ, 全体攻撃"
+    },
+    {
+        "name": "[第2特殊消防隊]武能登
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★1",
+        "attribute": "力",
+        "affiliation": "第2特殊消防隊",
+        "generation": "第三世代",
+        "role": "挑発"
+    },
+    {
+        "name": "[第1特殊消防隊]烈火星宮",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★2",
+        "attribute": "悪",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
+    },
+    {
+        "name": "[第1特殊消防隊]フォイェンリィ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★1",
+        "attribute": "知",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "体力回復"
+    },
+    {
+        "name": "[第1特殊消防隊]カリムフラム",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★1",
+        "attribute": "技",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第二世代",
+        "role": "氷結"
+    },
+    {
+        "name": "[特異体質？]環古達",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★1",
+        "attribute": "技",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
     },
     {
         "name": "[第1特殊消防隊]環古達",
@@ -77,7 +147,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "体力回復"
+        "role": "体力回復, 酸素回復"
     },
     {
         "name": "[第8の魔女]茉希尾瀬",
@@ -127,7 +197,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "バフ"
+        "role": "サポート"
     },
     {
         "name": "[第8特殊消防隊]秋樽桜備",
@@ -147,7 +217,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "アタッカー"
+        "role": "全体攻撃"
     },
     {
         "name": "[第8特殊消防隊]アーサーボイル",
@@ -157,7 +227,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "アタッカー"
+        "role": "全体攻撃"
     },
     {
         "name": "[新人消防官]森羅日下部",
@@ -167,7 +237,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "アタッカー"
+        "role": "単体攻撃"
     },
     {
         "name": "[第8特殊消防隊]森羅日下部",
@@ -177,6 +247,6 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "アタッカー"
+        "role": "単体攻撃"
     }
 ]
