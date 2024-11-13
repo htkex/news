@@ -85,7 +85,7 @@
         "rarity": "★3",
         "attribute": "悪",
         "affiliation": "伝導者一派",
-        "role": "混乱付与, 貫通"
+        "role": "混乱, 貫通"
     },
     {
         "name": "[サタンの微笑み]森羅日下部",
@@ -93,15 +93,71 @@
         "rarity": "★3",
         "attribute": "悪",
         "affiliation": "第8特殊消防隊",
-        "role": "大炎上付与, アタッカー"
+        "role": "大炎上, アタッカー"
     },
     {
         "name": "[いたずらポリス]プリンセス火華",
         "url": "characterC.html",
-        "rarity": "★6",
-        "attribute": "技",
+        "rarity": "★3",
+        "attribute": "悪",
         "affiliation": "第5特殊消防隊",
-        "role": "封印付与, アタッカー"
+        "role": "デバフ"
+    },
+    {
+        "name": "[第1特殊消防隊]環古達",
+        "url": "characterC.html",
+        "rarity": "★2",
+        "attribute": "正",
+        "affiliation": "第1特殊消防隊",
+        "role": "炎上, 封印"
+    },
+    {
+        "name": "[第8特殊消防隊]アイリス",
+        "url": "characterC.html",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "role": "体力回復"
+    },
+    {
+        "name": "[第8の魔女]茉希尾瀬",
+        "url": "characterC.html",
+        "rarity": "★1",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
+    },
+    {
+        "name": "[第8特殊消防隊]茉希尾瀬",
+        "url": "characterC.html",
+        "rarity": "★2",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
+    },
+    {
+        "name": "[鬼の中隊長]武久火縄",
+        "url": "characterC.html",
+        "rarity": "★1",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
+    },
+    {
+        "name": "[第8特殊消防隊]武久火縄",
+        "url": "characterC.html",
+        "rarity": "★2",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
+    },
+    {
+        "name": "[無能力者の戦い]秋樽桜備",
+        "url": "characterC.html",
+        "rarity": "★2",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "role": "バフ"
     },
     {
         "name": "[第8特殊消防隊]秋樽桜備",
@@ -109,13 +165,29 @@
         "rarity": "★3",
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
-        "role": "タンク"
+        "role": "挑発"
+    },
+    {
+        "name": "[白馬の騎士]アーサーボイル",
+        "url": "characterC.html",
+        "rarity": "★2",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
     },
     {
         "name": "[第8特殊消防隊]アーサーボイル",
         "url": "characterC.html",
         "rarity": "★3",
         "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
+    },
+    {
+        "name": "[新人消防官]森羅日下部",
+        "url": "characterC.html",
+        "rarity": "★2",
+        "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "role": "アタッカー"
     },
