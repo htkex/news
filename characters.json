@@ -104,13 +104,21 @@
         "role": "封印付与, アタッカー"
     },
     {
+        "name": "[第8特殊消防隊]秋樽桜備",
+        "url": "characterC.html",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "role": "タンク"
+    },
+    {
         "name": "[第8特殊消防隊]アーサーボイル",
         "url": "characterC.html",
         "rarity": "★3",
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "role": "アタッカー"
-    }
+    },
     {
         "name": "[第8特殊消防隊]森羅日下部",
         "url": "characterC.html",
