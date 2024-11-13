@@ -50,14 +50,44 @@
         "role": "出血, 全体攻撃"
     },
     {
-        "name": "[第5特殊消防隊]プリンセス火華",
+        "name": "[第7特殊消防隊]新門紅丸",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第7特殊消防隊",
+        "generation": "煉合能力者",
+        "role": "全体攻撃"
+    },
+    {
+        "name": "[色の猫炎尾]環古達",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
+    },
+    {
+        "name": "[第1特殊消防隊]レオナルドバーンズ",
         "url": "characterC.html",
         "gacha": "恒常",
         "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "挑発"
+    },
+    {
+        "name": "[第5特殊消防隊]トオル岸理",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★2",
         "attribute": "悪",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ, 全体攻撃"
+        "role": "挑発, 全体攻撃"
     },
     {
         "name": "[第5特殊消防隊]5thエンジェルス3",
