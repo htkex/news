@@ -54,7 +54,7 @@
         "attribute": "知",
         "affiliation": "不明",
         "role": "出血付与, アタッカー"
-    }
+    },
         {
         "name": "[秋の野営地]武久火縄",
         "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
@@ -104,11 +104,19 @@
         "role": "封印付与, アタッカー"
     },
     {
-        "name": "[ペテンな吸血鬼]ジョーカー",
+        "name": "[第8特殊消防隊]アーサーボイル",
         "url": "characterC.html",
-        "rarity": "★6",
-        "attribute": "知",
-        "affiliation": "不明",
-        "role": "出血付与, アタッカー"
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
+    }
+    {
+        "name": "[第8特殊消防隊]森羅日下部",
+        "url": "characterC.html",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "role": "アタッカー"
     }
 ]
