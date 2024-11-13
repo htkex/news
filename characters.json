@@ -14,7 +14,7 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "role": "混乱付与, 貫通"
-    }
+    },
     {
         "name": "[サタンの微笑み]森羅日下部",
         "url": "characterC.html",
@@ -22,15 +22,7 @@
         "attribute": "悪",
         "affiliation": "第8特殊消防隊",
         "role": "大炎上付与, アタッカー"
-    }
-    {
-        "name": "[サタンの微笑み]森羅日下部",
-        "url": "characterC.html",
-        "rarity": "★★★",
-        "attribute": "悪",
-        "affiliation": "第8特殊消防隊",
-        "role": "大炎上付与, アタッカー"
-    }
+    },
     {
         "name": "[いたずらポリス]プリンセス火華",
         "url": "characterC.html",
@@ -38,7 +30,7 @@
         "attribute": "技",
         "affiliation": "第5特殊消防隊",
         "role": "封印付与, アタッカー"
-    }
+    },
     {
         "name": "[ペテンな吸血鬼]ジョーカー",
         "url": "characterC.html",
