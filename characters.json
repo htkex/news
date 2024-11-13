@@ -16,6 +16,78 @@
         "role": "混乱付与, 貫通"
     },
     {
+        "name": "[秋の野営地]武久火縄",
+        "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "role": "酸素回復, 体力回復"
+    },
+    {
+        "name": "[スリルを求めて]因果春日部",
+        "url": "characterB.html",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "role": "混乱付与, 貫通"
+    },
+    {
+        "name": "[サタンの微笑み]森羅日下部",
+        "url": "characterC.html",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "第8特殊消防隊",
+        "role": "大炎上付与, アタッカー"
+    },
+    {
+        "name": "[いたずらポリス]プリンセス火華",
+        "url": "characterC.html",
+        "rarity": "★6",
+        "attribute": "技",
+        "affiliation": "第5特殊消防隊",
+        "role": "封印付与, アタッカー"
+    },
+    {
+        "name": "[ペテンな吸血鬼]ジョーカー",
+        "url": "characterC.html",
+        "rarity": "★6",
+        "attribute": "知",
+        "affiliation": "不明",
+        "role": "出血付与, アタッカー"
+    }
+        {
+        "name": "[秋の野営地]武久火縄",
+        "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "role": "酸素回復, 体力回復"
+    },
+    {
+        "name": "[スリルを求めて]因果春日部",
+        "url": "characterB.html",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "role": "混乱付与, 貫通"
+    },
+    {
+        "name": "[秋の野営地]武久火縄",
+        "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "role": "酸素回復, 体力回復"
+    },
+    {
+        "name": "[スリルを求めて]因果春日部",
+        "url": "characterB.html",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "role": "混乱付与, 貫通"
+    },
+    {
         "name": "[サタンの微笑み]森羅日下部",
         "url": "characterC.html",
         "rarity": "★3",
