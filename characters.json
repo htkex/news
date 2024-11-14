@@ -27,7 +27,7 @@
         "attribute": "悪",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "大炎上, 単体攻撃"
+        "role": "大炎上"
     },
     {
         "name": "[いたずらポリス]プリンセス火華",
@@ -67,7 +67,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "デバフ, 単体攻撃"
+        "role": "デバフ"
     },
     {
         "name": "[優秀な守り人]アロー",
@@ -77,7 +77,7 @@
         "attribute": "技",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, デバフ, 炎上, 単体攻撃"
+        "role": "必中, デバフ, 炎上"
     },
     {
         "name": "[熱望探求]ハウメア",
@@ -97,7 +97,7 @@
         "attribute": "技",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, 貫通, デバフ, 大炎上, 炎上, 単体攻撃"
+        "role": "必中, 貫通, デバフ, 大炎上, 炎上"
     },
     {
         "name": "[計り知れぬ潜在力]ナタク孫",
@@ -137,7 +137,7 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "必中, 酸素回復, 単体攻撃"
+        "role": "必中, 酸素回復"
     },
     {
         "name": "[褪せない思い]ミカサアッカーマン",
@@ -147,7 +147,7 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "貫通, 酸素回復, 単体攻撃"
+        "role": "貫通, 酸素回復"
     },
     {
         "name": "[消えない約束]エレンイェーガー",
@@ -167,7 +167,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "固定ダメ, 体力回復, サポート, 単体攻撃"
+        "role": "固定ダメ, 体力回復, サポート"
     },
     {
         "name": "[バカンスグラス]アロー",
@@ -187,7 +187,7 @@
         "attribute": "知",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "封印, 全体攻撃, 単体攻撃"
+        "role": "封印, 全体攻撃"
     },
     {
         "name": "[渚の聖女]アイリス",
@@ -207,7 +207,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, デバフ, 体力回復, 酸素回復, 単体攻撃"
+        "role": "バフ, デバフ, 体力回復, 酸素回復"
     },
     {
         "name": "[浜辺のアスリート]茉希尾瀬",
@@ -227,7 +227,7 @@
         "attribute": "知",
         "affiliation": "第4特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, 酸素回復, 単体攻撃"
+        "role": "バフ, 酸素回復"
     },
     {
         "name": "[弱者狩り]優一郎黒野",
@@ -237,7 +237,7 @@
         "attribute": "正",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "必中, 貫通, 大出血, 固定ダメ, 単体攻撃"
+        "role": "必中, 貫通, 大出血, 固定ダメ"
     },
     {
         "name": "[熱血神父]烈火星宮",
@@ -277,7 +277,7 @@
         "attribute": "正",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "固定ダメ, 貫通, 酸素回復, 単体攻撃"
+        "role": "固定ダメ, 貫通, 酸素回復"
     },
     {
         "name": "[平和な日常]リサ＆ヴァルカン",
@@ -287,7 +287,7 @@
         "attribute": "技",
         "affiliation": "その他",
         "generation": "第三世代",
-        "role": "挑発, 必中, 貫通, 体力回復, 単体攻撃"
+        "role": "挑発, 必中, 貫通, 体力回復"
     },
     {
         "name": "[射抜けぬ信念]武久火縄",
@@ -297,7 +297,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "貫通, 固定ダメ, 単体攻撃"
+        "role": "貫通, 固定ダメ"
     },
     {
         "name": "[幼き覚醒者]ナタク孫",
@@ -307,7 +307,7 @@
         "attribute": "正",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "炎上, 大炎上, 単体攻撃"
+        "role": "炎上, 大炎上"
     },
     {
         "name": "[死神のおじさん]優一郎黒野",
@@ -317,7 +317,7 @@
         "attribute": "悪",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "大出血, デバフ, 単体攻撃"
+        "role": "大出血, デバフ"
     },
     {
         "name": "[最強の盾]秋樽桜備",
@@ -337,7 +337,7 @@
         "attribute": "技",
         "affiliation": "第4特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     }, 
     {
         "name": "[幻影使い]ミラージュ",
@@ -347,7 +347,7 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "挑発, 酸素回復, 単体攻撃"
+        "role": "挑発, 酸素回復"
     }, 
     {
         "name": "[大いなる目的]ハウメア",
@@ -367,7 +367,7 @@
         "attribute": "知",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃, デバフ"
+        "role": "デバフ"
     },
     {
         "name": "[第7特殊消防隊]新門紅丸",
@@ -387,7 +387,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[炎ノ化身]レオナルドバーンズ",
@@ -397,7 +397,7 @@
         "attribute": "正",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "体力回復, 貫通, 単体攻撃"
+        "role": "体力回復, 貫通"
     },
     {
         "name": "[1周年ノ装]アイリス",
@@ -408,6 +408,16 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "バフ, デバフ, 酸素回復, 蘇生"
+    },
+    {
+        "name": "[豪炎剛球]フレイル",
+        "url": "characterC.html",
+        "gacha": "イベント配布",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "炎上, 大炎上, デバフ"
     },
     {
         "name": "[1周年ノ装]アーサーボイル",
@@ -427,7 +437,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "必中, 封印, デバフ, 貫通, 固定ダメ, 単体攻撃"
+        "role": "必中, 封印, デバフ, 貫通, 固定ダメ"
     },
     {
         "name": "[真実の探求者]ジョーカー",
@@ -437,7 +447,7 @@
         "attribute": "力",
         "affiliation": "不明",
         "generation": "不明",
-        "role": "必中, 混乱, デバフ, 貫通, 単体攻撃"
+        "role": "必中, 混乱, デバフ, 貫通"
     },
     {
         "name": "[双炎の狐]ヒナタ＆ヒカゲ",
@@ -447,7 +457,7 @@
         "attribute": "技",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ, 挑発, 体力回復, 単体攻撃"
+        "role": "デバフ, 挑発, 体力回復"
     },
     {
         "name": "[若の右腕]相模屋紺炉",
@@ -457,7 +467,7 @@
         "attribute": "知",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, 固定ダメ, 単体攻撃"
+        "role": "バフ, 固定ダメ"
     },
     {
         "name": "[灰焰騎士団長]象日下部",
@@ -467,7 +477,7 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "大出血, デバフ, 単体攻撃"
+        "role": "大出血, デバフ"
     },
     {
         "name": "[新年ノ装]新門紅丸",
@@ -487,7 +497,7 @@
         "attribute": "知",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "大出血, 単体攻撃"
+        "role": "大出血"
     }, 
     {
         "name": "[白魔導士]ゼレフ＆ショウ",
@@ -497,7 +507,7 @@
         "attribute":"悪",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "単体攻撃, バフ"
+        "role": "バフ"
     },
     {
         "name": "[星霊魔導士]ルーシィ＆タマキ",
@@ -507,7 +517,7 @@
         "attribute": "知",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "挑発, 酸素回復, 体力回復, 単体攻撃"
+        "role": "挑発, 酸素回復, 体力回復"
     },
     {
         "name": "[氷の滅悪魔導士]グレイ＆アーサー",
@@ -527,7 +537,7 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "炎上, 大炎上, 単体攻撃"
+        "role": "炎上, 大炎上"
     },
     {
         "name": "[熱望探求]ハウメア",
@@ -547,7 +557,7 @@
         "attribute": "技",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, デバフ, 大炎上, 炎上, 単体攻撃"
+        "role": "必中, デバフ, 大炎上, 炎上"
     },
     {
         "name": "[最強の盾]秋樽桜備",
@@ -587,7 +597,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "貫通, 単体攻撃"
+        "role": "貫通"
     },
     {
         "name": "[冷静沈着]カリムフラム",
@@ -637,7 +647,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "バフ, 単体攻撃"
+        "role": "バフ"
     },
     {
         "name": "[不動不屈]カロン",
@@ -647,7 +657,7 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第二世代",
-        "role": "挑発, 固定ダメ, 単体攻撃"
+        "role": "挑発, 固定ダメ"
     },
     {
         "name": "[天空の騎士]アーサーボイル",
@@ -657,7 +667,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "体力回復, サポート, 単体攻撃"
+        "role": "体力回復, サポート"
     },
     {
         "name": "[サマースクール]環古達",
@@ -667,7 +677,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, デバフ, 体力回復, 酸素回復, 単体攻撃"
+        "role": "バフ, デバフ, 体力回復, 酸素回復"
     },
     {
         "name": "[浜辺のアスリート]茉希尾瀬",
@@ -687,7 +697,7 @@
         "attribute": "力",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "出血, バフ, 単体攻撃"
+        "role": "出血, バフ"
     },
     {
         "name": "[伝導者麾下]ハウメア",
@@ -707,7 +717,7 @@
         "attribute": "知",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "封印, 全体攻撃, 単体攻撃"
+        "role": "封印, 全体攻撃"
     },
     {
         "name": "[渚の聖女]アイリス",
@@ -727,7 +737,7 @@
         "attribute": "悪",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[浅草の暴走王]新門紅丸",
@@ -757,7 +767,7 @@
         "attribute": "正",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "単体攻撃, 全体攻撃"
+        "role": "全体攻撃"
     },
     {
         "name": "[壱番隊副隊長]松野千冬",
@@ -777,7 +787,7 @@
         "attribute": "正",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "体力回復, 単体攻撃"
+        "role": "体力回復"
     },
     {
         "name": "[無敵のマイキー]佐野万次郎",
@@ -787,7 +797,7 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[悪魔の喧嘩師]森羅日下部",
@@ -797,7 +807,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
-        "role": "バフ, 単体攻撃"
+        "role": "バフ"
     },
     {
         "name": "[アドラバースト]森羅日下部",
@@ -807,7 +817,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
-        "role": "目眩, 炎上, 2回攻撃, 単体攻撃"
+        "role": "目眩, 炎上, 2回攻撃"
     },
     {
         "name": "[第3特殊消防隊]Dr.ジョバンニ",
@@ -817,7 +827,7 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第二世代",
-        "role": "出血, 麻痺, 単体攻撃"
+        "role": "出血, 麻痺"
     },
     {
         "name": "[灰焰騎士団]リサ漁辺",
@@ -837,7 +847,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "目眩, 貫通, 単体攻撃"
+        "role": "目眩, 貫通"
     },
     {
         "name": "[第8特殊消防隊]ヴィクトルリヒト",
@@ -867,7 +877,7 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第一世代",
-        "role": "挑発, 単体攻撃"
+        "role": "挑発"
     },
     {
         "name": "[灰焰騎士団]アロー",
@@ -937,7 +947,7 @@
         "attribute": "知",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃, デバフ"
+        "role": "デバフ"
     },
     {
         "name": "[第1特殊消防隊]レオナルドバーンズ",
@@ -967,7 +977,7 @@
         "attribute": "知",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[第5特殊消防隊]プリンセス火華",
@@ -997,7 +1007,7 @@
         "attribute": "悪",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[第1特殊消防隊]フォイェンリィ",
@@ -1027,7 +1037,7 @@
         "attribute": "技",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃, デバフ"
+        "role": "デバフ"
     },
     {
         "name": "[第1特殊消防隊]環古達",
@@ -1057,7 +1067,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "バフ, 単体攻撃"
+        "role": "バフ"
     },
     {
         "name": "[第8特殊消防隊]茉希尾瀬",
@@ -1067,7 +1077,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "単体攻撃, サポート"
+        "role": "サポート"
     },
     {
         "name": "[鬼の中隊長]武久火縄",
@@ -1087,7 +1097,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[無能力者の戦い]秋樽桜備",
@@ -1137,7 +1147,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     },
     {
         "name": "[第8特殊消防隊]森羅日下部",
@@ -1147,6 +1157,6 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": ""
     }
 ]
