@@ -1,5 +1,7 @@
 [
     {
+        "id": "115",
+        "image": "",
         "name": "[秋の野営地]武久火縄",
         "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
         "gacha": "期間限定",
@@ -8,8 +10,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "酸素回復, 体力回復, 貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "114",
+        "image": "",
         "name": "[スリルを求めて]因果春日谷",
         "url": "characterB.html",
         "gacha": "大炎舞祭",
@@ -18,8 +26,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "混乱, 全体攻撃, 貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "113",
+        "image": "",
         "name": "[サタンの微笑み]森羅日下部",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -28,8 +42,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "大炎上"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "112",
+        "image": "",
         "name": "[いたずらポリス]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -38,8 +58,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": "封印, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "111",
+        "image": "",
         "name": "[ペテンな吸血鬼]ジョーカー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -48,8 +74,14 @@
         "affiliation": "不明",
         "generation": "不明",
         "role": "出血, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "110",
+        "image": "",
         "name": "[使命への献身]カロン",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -58,8 +90,14 @@
         "affiliation": "伝導者一派",
         "generation": "第二世代",
         "role": "挑発, 固定ダメ, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "109",
+        "image": "",
         "name": "[湧き出す乙女心]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -68,8 +106,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "108",
+        "image": "",
         "name": "[熱望探求]ハウメア",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -78,8 +122,14 @@
         "affiliation": "伝道者一派",
         "generation": "第三世代",
         "role": "必中, デバフ, 麻痺, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "107",
+        "image": "",
         "name": "[優秀な守り人]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -90,6 +140,8 @@
         "role": "必中, 貫通, デバフ, 大炎上, 炎上"
     },
     {
+        "id": "106",
+        "image": "",
         "name": "[計り知れぬ潜在力]ナタク孫",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -98,8 +150,14 @@
         "affiliation": "灰島重工",
         "generation": "第三世代",
         "role": "固定ダメ, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "105",
+        "image": "",
         "name": "[炎夏筆頭]新門紅丸",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -108,8 +166,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
         "role": "バフ, 全体攻撃, 貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "104",
+        "image": "",
         "name": "[マッスルウェア]ハウメア",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -118,8 +182,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "挑発, 固定ダメ, 体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "103",
+        "image": "",
         "name": "[異装団長]象日下部",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -128,8 +198,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "必中, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "102",
+        "image": "",
         "name": "[褪せない思い]ミカサアッカーマン",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -138,8 +214,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "貫通, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "101",
+        "image": "",
         "name": "[消えない約束]エレンイェーガー",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -148,8 +230,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "2回攻撃, 貫通, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "100",
+        "image": "",
         "name": "[天空の騎士]アーサーボイル",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -158,8 +246,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "固定ダメ, 体力回復, サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "99",
+        "image": "",
         "name": "[バカンスグラス]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -168,8 +262,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "目眩, 全体攻撃, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "98",
+        "image": "",
         "name": "[常夏の女王]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -178,8 +278,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": "封印, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "97",
+        "image": "",
         "name": "[渚の聖女]アイリス",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -188,9 +294,15 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "酸素回復, サポート, 体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
-       "name": "[サマースクール]環古達",
+        "id": "96",
+        "image": "",
+        "name": "[サマースクール]環古達",
         "url": "characterC.html",
         "gacha": "期間限定",
         "rarity": "★6",
@@ -198,8 +310,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "バフ, デバフ, 体力回復, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "95",
+        "image": "",
         "name": "[浜辺のアスリート]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -208,8 +326,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "固定ダメ, 全体攻撃, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "94",
+        "image": "",
         "name": "[パワーホイッスル]パートコパーン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -218,8 +342,14 @@
         "affiliation": "第4特殊消防隊",
         "generation": "第三世代",
         "role": "バフ, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "93",
+        "image": "",
         "name": "[弱者狩り]優一郎黒野",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -228,8 +358,14 @@
         "affiliation": "灰島重工",
         "generation": "第三世代",
         "role": "必中, 貫通, 大出血, 固定ダメ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "92",
+        "image": "",
         "name": "[熱血神父]烈火星宮",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -238,8 +374,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "2回攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "91",
+        "image": "",
         "name": "[炎を操る魔女]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -248,8 +390,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "全体攻撃, デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "90",
+        "image": "",
         "name": "[アドラバースト]森羅日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -258,8 +406,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
         "role": "目眩, 炎上, 固定ダメ, 酸素回復, 2回攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "89",
+        "image": "",
         "name": "[揺るがぬ信仰心]フォイェンリィ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -268,8 +422,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "固定ダメ, 貫通, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "88",
+        "image": "",
         "name": "[平和な日常]リサ＆ヴァルカン",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -278,8 +438,14 @@
         "affiliation": "その他",
         "generation": "第三世代",
         "role": "挑発, 必中, 貫通, 体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "87",
+        "image": "",
         "name": "[射抜けぬ信念]武久火縄",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -288,8 +454,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "貫通, 固定ダメ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "86",
+        "image": "",
         "name": "[幼き覚醒者]ナタク孫",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -298,8 +470,14 @@
         "affiliation": "灰島重工",
         "generation": "第三世代",
         "role": "炎上, 大炎上"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "85",
+        "image": "",
         "name": "[死神のおじさん]優一郎黒野",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -308,8 +486,14 @@
         "affiliation": "灰島重工",
         "generation": "第三世代",
         "role": "大出血, デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "84",
+        "image": "",
         "name": "[最強の盾]秋樽桜備",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -318,8 +502,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "体力回復, 挑発, サポート, バフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "83",
+        "image": "",
         "name": "[エアトリック]オグン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -328,8 +518,14 @@
         "affiliation": "第4特殊消防隊",
         "generation": "第三世代",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     }, 
     {
+        "id": "82",
+        "image": "",
         "name": "[幻影使い]ミラージュ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -338,8 +534,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "挑発, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     }, 
     {
+        "id": "81",
+        "image": "",
         "name": "[大いなる目的]ハウメア",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -348,8 +550,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "必中, 目眩, デバフ, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     }, 
     {
+        "id": "80",
+        "image": "",
         "name": "[緋色の猫炎尾]環古達",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -358,8 +566,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "79",
+        "image": "",
         "name": "[第7特殊消防隊]新門紅丸",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -368,8 +582,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
         "role": "全体攻撃, 炎上"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "78",
+        "image": "",
         "name": "[新人消防官]森羅日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -378,8 +598,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "77",
+        "image": "",
         "name": "[炎ノ化身]レオナルドバーンズ",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -388,8 +614,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "体力回復, 貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "76",
+        "image": "",
         "name": "[1周年ノ装]アイリス",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -398,8 +630,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "バフ, デバフ, 酸素回復, 蘇生"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "75",
+        "image": "",
         "name": "[豪炎剛球]フレイル",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -408,8 +646,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "炎上, 大炎上, デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "74",
+        "image": "",
         "name": "[1周年ノ装]アーサーボイル",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -418,8 +662,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "必中, 貫通, 固定ダメ, 2回攻撃, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "73",
+        "image": "",
         "name": "[1周年ノ装]森羅日下部",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -428,8 +678,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "必中, 封印, デバフ, 貫通, 固定ダメ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "72",
+        "image": "",
         "name": "[真実の探求者]ジョーカー",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -438,8 +694,14 @@
         "affiliation": "不明",
         "generation": "不明",
         "role": "必中, 混乱, デバフ, 貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "71",
+        "image": "",
         "name": "[双炎の狐]ヒナタ＆ヒカゲ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -448,8 +710,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
         "role": "デバフ, 挑発, 体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "70",
+        "image": "",
         "name": "[若の右腕]相模屋紺炉",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -458,8 +726,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
         "role": "バフ, 固定ダメ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "69",
+        "image": "",
         "name": "[灰焰騎士団長]象日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -468,8 +742,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "大出血, デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "68",
+        "image": "",
         "name": "[新年ノ装]新門紅丸",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -478,8 +758,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
         "role": "デバフ, 全体攻撃, 2回攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "67",
+        "image": "",
         "name": "[宇宙を斬リ離ス者]象日下部",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -488,8 +774,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "大出血"
-    }, 
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
+    },
     {
+        "id": "66",
+        "image": "",
         "name": "[白魔導士]ゼレフ＆ショウ",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -498,8 +790,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "バフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "65",
+        "image": "",
         "name": "[星霊魔導士]ルーシィ＆タマキ",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -508,8 +806,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "挑発, 酸素回復, 体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "64",
+        "image": "",
         "name": "[氷の滅悪魔導士]グレイ＆アーサー",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -518,8 +822,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "氷結, 酸素回復, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "63",
+        "image": "",
         "name": "[火の滅竜魔導士]ナツ＆シンラ",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -528,8 +838,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "炎上, 大炎上"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "62",
+        "image": "",
         "name": "[熱望探求]ハウメア",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -538,8 +854,14 @@
         "affiliation": "伝道者一派",
         "generation": "第三世代",
         "role": "必中, デバフ, 麻痺, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "61",
+        "image": "",
         "name": "[優秀な守り人]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -548,8 +870,14 @@
         "affiliation": "伝道者一派",
         "generation": "第三世代",
         "role": "必中, デバフ, 大炎上, 炎上"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "60",
+        "image": "",
         "name": "[最強の盾]秋樽桜備",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -558,8 +886,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "体力回復, 挑発, サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "59",
+        "image": "",
         "name": "[いたずらポリス]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -568,8 +902,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": "デバフ, 封印, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "58",
+        "image": "",
         "name": "[ペテンな吸血鬼]ジョーカー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -578,8 +918,14 @@
         "affiliation": "不明",
         "generation": "不明",
         "role": "デバフ, 出血, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "57",
+        "image": "",
         "name": "[射抜けぬ信念]武久火縄",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -588,8 +934,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "56",
+        "image": "",
         "name": "[冷静沈着]カリムフラム",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -598,8 +950,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第二世代",
         "role": "デバフ, 氷結, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "55",
+        "image": "",
         "name": "[ネクロマンサー]リツ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -608,8 +966,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "バフ, 炎上, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "54",
+        "image": "",
         "name": "[未来予知]因果春日谷",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -618,8 +982,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "必中, 混乱, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "53",
+        "image": "",
         "name": "[穢れ無き聖女]アイリス",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -628,8 +998,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "体力回復, サポート, 蘇生"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "52",
+        "image": "",
         "name": "[優秀な第8補佐]武久火縄",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -638,8 +1014,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "バフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "51",
+        "image": "",
         "name": "[不動不屈]カロン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -648,8 +1030,14 @@
         "affiliation": "伝導者一派",
         "generation": "第二世代",
         "role": "挑発, 固定ダメ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "50",
+        "image": "",
         "name": "[天空の騎士]アーサーボイル",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -658,8 +1046,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "体力回復, サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "49",
+        "image": "",
         "name": "[サマースクール]環古達",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -668,8 +1062,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "バフ, デバフ, 体力回復, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "48",
+        "image": "",
         "name": "[浜辺のアスリート]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -678,8 +1078,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "固定ダメ, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "47",
+        "image": "",
         "name": "[英雄の弟]象日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -688,8 +1094,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "出血, バフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "46",
+        "image": "",
         "name": "[伝導者麾下]ハウメア",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -698,8 +1110,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "麻痺, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "45",
+        "image": "",
         "name": "[常夏の女王]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -708,8 +1126,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": "封印, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "44",
+        "image": "",
         "name": "[渚の聖女]アイリス",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -718,8 +1142,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "酸素回復, サポート, 体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "43",
+        "image": "",
         "name": "[熱血神父]烈火星宮",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -728,8 +1158,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "42",
+        "image": "",
         "name": "[浅草の暴走王]新門紅丸",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -738,8 +1174,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
         "role": "全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "41",
+        "image": "",
         "name": "[弐等消防官]アーサーボイル",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -748,8 +1190,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
         "role": "体力回復, 酸素回復, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "40",
+        "image": "",
         "name": "[戦況を変える男]龍宮寺堅",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -758,8 +1206,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "39",
+        "image": "",
         "name": "[壱番隊副隊長]松野千冬",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -768,8 +1222,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "バフ, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "38",
+        "image": "",
         "name": "[泣き虫のヒーロー]花垣武道",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -778,8 +1238,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "37",
+        "image": "",
         "name": "[無敵のマイキー]佐野万次郎",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -788,8 +1254,14 @@
         "affiliation": "その他",
         "generation": "無能力者",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "36",
+        "image": "",
         "name": "[悪魔の喧嘩師]森羅日下部",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -798,9 +1270,15 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
         "role": "バフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
-        "name": "[アドラバースト]森羅日下部",
+        "id": "35",
+        "image": "","name": "
+        [アドラバースト]森羅日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
         "rarity": "★3",
@@ -808,8 +1286,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
         "role": "目眩, 炎上, 2回攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "34",
+        "image": "",
         "name": "[第3特殊消防隊]Dr.ジョバンニ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -818,8 +1302,14 @@
         "affiliation": "伝導者一派",
         "generation": "第二世代",
         "role": "出血, 麻痺"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "33",
+        "image": "",
         "name": "[灰焰騎士団]リサ漁辺",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -828,8 +1318,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "炎上, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "32",
+        "image": "",
         "name": "[第8特殊消防隊]ヴァルカンジョセフ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -838,8 +1334,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "目眩, 貫通"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "31",
+        "image": "",
         "name": "[第8特殊消防隊]ヴィクトルリヒト",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -848,8 +1350,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "バフ, デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "30",
+        "image": "",
         "name": "[炎を操る魔女]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -858,8 +1366,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "全体攻撃, デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "29",
+        "image": "",
         "name": "[灰焰騎士団]ハラン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -868,8 +1382,14 @@
         "affiliation": "伝導者一派",
         "generation": "第一世代",
         "role": "挑発"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "28",
+        "image": "",
         "name": "[灰焰騎士団]アロー",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -878,8 +1398,14 @@
         "affiliation": "伝導者一派",
         "generation": "第三世代",
         "role": "必中, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "27",
+        "image": "",
         "name": "[影の暗躍者]ジョーカー",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -888,8 +1414,14 @@
         "affiliation": "不明",
         "generation": "不明",
         "role": "出血, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "26",
+        "image": "",
         "name": "[第7特殊消防隊]ヒカゲ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -898,8 +1430,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
         "role": "酸素回復, サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "25",
+        "image": "",
         "name": "[第7特殊消防隊]ヒナタ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -908,8 +1446,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
         "role": "体力回復, サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "24",
+        "image": "",
         "name": "[第7特殊消防隊]相模屋紺炉",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -918,8 +1462,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
         "role": "バフ, 挑発"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "23",
+        "image": "",
         "name": "[第7特殊消防隊]新門紅丸",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -928,8 +1478,14 @@
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
         "role": "全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "22",
+        "image": "",
         "name": "[緋色の猫炎尾]環古達",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -938,8 +1494,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "21",
+        "image": "",
         "name": "[第1特殊消防隊]レオナルドバーンズ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -948,8 +1510,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "挑発"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "20",
+        "image": "",
         "name": "[第5特殊消防隊]トオル岸理",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -958,8 +1526,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": "挑発, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "19",
+        "image": "",
         "name": "[第5特殊消防隊]5thエンジェルス3",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -968,8 +1542,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "18",
+        "image": "",
         "name": "[第5特殊消防隊]プリンセス火華",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -978,8 +1558,14 @@
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
         "role": "デバフ, 全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "17",
+        "image": "",
         "name": "[第2特殊消防隊]武能登",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -988,8 +1574,14 @@
         "affiliation": "第2特殊消防隊",
         "generation": "第三世代",
         "role": "挑発"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "16",
+        "image": "",
         "name": "[第1特殊消防隊]烈火星宮",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -998,8 +1590,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "15",
+        "image": "",
         "name": "[第1特殊消防隊]フォイェンリィ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1008,8 +1606,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "体力回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "14",
+        "image": "",
         "name": "[第1特殊消防隊]カリムフラム",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1018,8 +1622,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第二世代",
         "role": "氷結"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "13",
+        "image": "",
         "name": "[特異体質？]環古達",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1028,8 +1638,15 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "デバフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        
+        "id": "12",
+        "image": "",
         "name": "[第1特殊消防隊]環古達",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1038,8 +1655,14 @@
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
         "role": "炎上, 封印"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "11",
+        "image": "",
         "name": "[第8特殊消防隊]アイリス",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1048,8 +1671,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "体力回復, 酸素回復"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "10",
+        "image": "",
         "name": "[第8の魔女]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1058,8 +1687,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "バフ"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "9",
+        "image": "",
         "name": "[第8特殊消防隊]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1068,8 +1703,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "8",
+        "image": "",,
         "name": "[鬼の中隊長]武久火縄",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1078,8 +1719,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "全体攻撃"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "7",
+        "image": "",
         "name": "[第8特殊消防隊]武久火縄",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1088,8 +1735,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": ""
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "6",
+        "image": "",
         "name": "[無能力者の戦い]秋樽桜備",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1098,8 +1751,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "サポート"
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "eva": "",
     },
     {
+        "id": "5",
+        "image": "",
         "name": "[第8特殊消防隊]秋樽桜備",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1108,8 +1767,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
         "role": "挑発"
+        "hp": "18,441",
+        "atk": "12,602",
+        "def": "13,831",
+        "eva": "706",
     },
     {
+        "id": "4",
+        "image": "",
         "name": "[白馬の騎士]アーサーボイル",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1118,8 +1783,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "全体攻撃"
+        "hp": "8,107",
+        "atk": "16,214",
+        "def": "5,472",
+        "eva": "349",
     },
     {
+        "id": "3",
+        "image": "",
         "name": "[第8特殊消防隊]アーサーボイル",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1128,8 +1799,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": "全体攻撃"
+        "hp": "11,869",
+        "atk": "22,254",
+        "def": "9,199",
+        "eva": "682",
     },
     {
+        "id": "2",
+        "image": "",
         "name": "[新人消防官]森羅日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1138,8 +1815,14 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": ""
-    },
+        "hp": "6,359",
+        "atk": "16,532",
+        "def": "8,054",
+        "eva": "487",
+    },                
     {
+        "id": "1",
+        "image": "",
         "name": "[第8特殊消防隊]森羅日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1148,5 +1831,9 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
         "role": ""
+        "hp": "10,618",
+        "atk": "22,129",
+        "def": "9,478",
+        "eva": "495",
     }
 ]
