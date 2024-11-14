@@ -70,16 +70,6 @@
         "role": "デバフ"
     },
     {
-        "name": "[優秀な守り人]アロー",
-        "url": "characterC.html",
-        "gacha": "期間限定",
-        "rarity": "★3",
-        "attribute": "技",
-        "affiliation": "伝道者一派",
-        "generation": "第三世代",
-        "role": "必中, デバフ, 炎上"
-    },
-    {
         "name": "[熱望探求]ハウメア",
         "url": "characterC.html",
         "gacha": "期間限定",
