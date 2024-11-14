@@ -50,6 +50,46 @@
         "role": "出血, 全体攻撃"
     },
     {
+        "name": "[パワーホイッスル]パートコパーン",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第4特殊消防隊",
+        "generation": "第三世代",
+        "role": "バフ, 酸素回復, 単体攻撃"
+    },
+    {
+        "name": "[弱者狩り]優一郎黒野",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "灰島重工",
+        "generation": "第三世代",
+        "role": "必中, 貫通, 大出血, 固定ダメ, 単体攻撃"
+    },
+    {
+        "name": "[熱血神父]烈火星宮",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "2回攻撃"
+    },
+    {
+        "name": "[炎を操る魔女]茉希尾瀬",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "全体攻撃, デバフ"
+    },
+    {
         "name": "[アドラバースト]森羅日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
