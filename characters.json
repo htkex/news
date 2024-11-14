@@ -601,7 +601,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": ""
+        "role": "",
         "hp": "",
         "atk": "",
         "def": "",
@@ -777,7 +777,7 @@
         "attribute": "知",
         "affiliation": "伝導者一派",
         "generation": "第三世代"
-        "role": "大出血"
+        "role": "大出血",
         "hp": "",
         "atk": "",
         "def": "",
@@ -793,7 +793,7 @@
         "attribute":"悪",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "バフ"
+        "role": "バフ",
         "hp": "",
         "atk": "",
         "def": "",
