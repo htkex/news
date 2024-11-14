@@ -9,11 +9,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "酸素回復, 体力回復, 貫通"
+        "role": "酸素回復, 体力回復, 貫通",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "114",
@@ -25,11 +25,11 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "混乱, 全体攻撃, 貫通"
+        "role": "混乱, 全体攻撃, 貫通",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "113",
@@ -41,11 +41,11 @@
         "attribute": "悪",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "大炎上"
+        "role": "大炎上",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "112",
@@ -57,11 +57,11 @@
         "attribute": "技",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "封印, 全体攻撃"
+        "role": "封印, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "111",
@@ -73,11 +73,11 @@
         "attribute": "知",
         "affiliation": "不明",
         "generation": "不明",
-        "role": "出血, 全体攻撃"
+        "role": "出血, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "110",
@@ -89,11 +89,11 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第二世代",
-        "role": "挑発, 固定ダメ, 全体攻撃"
+        "role": "挑発, 固定ダメ, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "109",
@@ -105,11 +105,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "デバフ"
+        "role": "デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "108",
@@ -121,11 +121,11 @@
         "attribute": "力",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, デバフ, 麻痺, 全体攻撃"
+        "role": "必中, デバフ, 麻痺, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "107",
@@ -137,11 +137,11 @@
         "attribute": "技",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, 貫通, デバフ, 大炎上, 炎上"
+        "role": "必中, 貫通, デバフ, 大炎上, 炎上",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "106",
@@ -153,11 +153,11 @@
         "attribute": "悪",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "固定ダメ, 全体攻撃"
+        "role": "固定ダメ, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "105",
@@ -169,11 +169,11 @@
         "attribute": "悪",
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
-        "role": "バフ, 全体攻撃, 貫通"
+        "role": "バフ, 全体攻撃, 貫通",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "104",
@@ -185,11 +185,11 @@
         "attribute":"知",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "挑発, 固定ダメ, 体力回復"
+        "role": "挑発, 固定ダメ, 体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "103",
@@ -201,11 +201,11 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "必中, 酸素回復"
+        "role": "必中, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "102",
@@ -217,11 +217,11 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "貫通, 酸素回復"
+        "role": "貫通, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "101",
@@ -233,11 +233,11 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "2回攻撃, 貫通, 酸素回復"
+        "role": "2回攻撃, 貫通, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "100",
@@ -249,11 +249,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "固定ダメ, 体力回復, サポート"
+        "role": "固定ダメ, 体力回復, サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "99",
@@ -265,7 +265,7 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "目眩, 全体攻撃, 酸素回復"
+        "role": "目眩, 全体攻撃, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
@@ -281,11 +281,11 @@
         "attribute": "知",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "封印, 全体攻撃"
+        "role": "封印, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "97",
@@ -297,11 +297,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "酸素回復, サポート, 体力回復"
+        "role": "酸素回復, サポート, 体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "96",
@@ -313,11 +313,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, デバフ, 体力回復, 酸素回復"
+        "role": "バフ, デバフ, 体力回復, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "95",
@@ -329,11 +329,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "固定ダメ, 全体攻撃, 酸素回復"
+        "role": "固定ダメ, 全体攻撃, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "94",
@@ -345,11 +345,11 @@
         "attribute": "知",
         "affiliation": "第4特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, 酸素回復"
+        "role": "バフ, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "93",
@@ -361,11 +361,11 @@
         "attribute": "正",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "必中, 貫通, 大出血, 固定ダメ"
+        "role": "必中, 貫通, 大出血, 固定ダメ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "92",
@@ -377,11 +377,11 @@
         "attribute": "悪",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "2回攻撃"
+        "role": "2回攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "91",
@@ -393,11 +393,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "全体攻撃, デバフ"
+        "role": "全体攻撃, デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "90",
@@ -409,11 +409,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
-        "role": "目眩, 炎上, 固定ダメ, 酸素回復, 2回攻撃"
+        "role": "目眩, 炎上, 固定ダメ, 酸素回復, 2回攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "89",
@@ -425,11 +425,11 @@
         "attribute": "正",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "固定ダメ, 貫通, 酸素回復"
+        "role": "固定ダメ, 貫通, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "88",
@@ -441,11 +441,11 @@
         "attribute": "技",
         "affiliation": "その他",
         "generation": "第三世代",
-        "role": "挑発, 必中, 貫通, 体力回復"
+        "role": "挑発, 必中, 貫通, 体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "87",
@@ -457,11 +457,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "貫通, 固定ダメ"
+        "role": "貫通, 固定ダメ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "86",
@@ -473,11 +473,11 @@
         "attribute": "正",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "炎上, 大炎上"
+        "role": "炎上, 大炎上",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "85",
@@ -489,11 +489,11 @@
         "attribute": "悪",
         "affiliation": "灰島重工",
         "generation": "第三世代",
-        "role": "大出血, デバフ"
+        "role": "大出血, デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "84",
@@ -505,11 +505,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "体力回復, 挑発, サポート, バフ"
+        "role": "体力回復, 挑発, サポート, バフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "83",
@@ -525,7 +525,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     }, 
     {
         "id": "82",
@@ -537,11 +537,11 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "挑発, 酸素回復"
+        "role": "挑発, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     }, 
     {
         "id": "81",
@@ -553,11 +553,11 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "必中, 目眩, デバフ, 全体攻撃"
+        "role": "必中, 目眩, デバフ, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     }, 
     {
         "id": "80",
@@ -569,11 +569,11 @@
         "attribute": "知",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ"
+        "role": "デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "79",
@@ -585,11 +585,11 @@
         "attribute": "力",
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
-        "role": "全体攻撃, 炎上"
+        "role": "全体攻撃, 炎上",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "78",
@@ -605,7 +605,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "77",
@@ -617,11 +617,11 @@
         "attribute": "正",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "体力回復, 貫通"
+        "role": "体力回復, 貫通",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "76",
@@ -633,11 +633,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "バフ, デバフ, 酸素回復, 蘇生"
+        "role": "バフ, デバフ, 酸素回復, 蘇生",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "75",
@@ -649,11 +649,11 @@
         "attribute": "力",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "炎上, 大炎上, デバフ"
+        "role": "炎上, 大炎上, デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "74",
@@ -665,11 +665,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "必中, 貫通, 固定ダメ, 2回攻撃, 全体攻撃"
+        "role": "必中, 貫通, 固定ダメ, 2回攻撃, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "73",
@@ -681,11 +681,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "必中, 封印, デバフ, 貫通, 固定ダメ"
+        "role": "必中, 封印, デバフ, 貫通, 固定ダメ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "72",
@@ -697,11 +697,11 @@
         "attribute": "力",
         "affiliation": "不明",
         "generation": "不明",
-        "role": "必中, 混乱, デバフ, 貫通"
+        "role": "必中, 混乱, デバフ, 貫通",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "71",
@@ -713,11 +713,11 @@
         "attribute": "技",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ, 挑発, 体力回復"
+        "role": "デバフ, 挑発, 体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "70",
@@ -729,11 +729,11 @@
         "attribute": "知",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, 固定ダメ"
+        "role": "バフ, 固定ダメ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "69",
@@ -745,11 +745,11 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "大出血, デバフ"
+        "role": "大出血, デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "68",
@@ -761,11 +761,11 @@
         "attribute": "正",
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
-        "role": "デバフ, 全体攻撃, 2回攻撃"
+        "role": "デバフ, 全体攻撃, 2回攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "67",
@@ -776,12 +776,12 @@
         "rarity": "★3",
         "attribute": "知",
         "affiliation": "伝導者一派",
-        "generation": "第三世代",
+        "generation": "第三世代"
         "role": "大出血"
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "66",
@@ -797,7 +797,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "65",
@@ -809,11 +809,11 @@
         "attribute": "知",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "挑発, 酸素回復, 体力回復"
+        "role": "挑発, 酸素回復, 体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "64",
@@ -825,11 +825,11 @@
         "attribute": "技",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "氷結, 酸素回復, 全体攻撃"
+        "role": "氷結, 酸素回復, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "63",
@@ -841,11 +841,11 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "炎上, 大炎上"
+        "role": "炎上, 大炎上",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "62",
@@ -857,11 +857,11 @@
         "attribute": "力",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, デバフ, 麻痺, 全体攻撃"
+        "role": "必中, デバフ, 麻痺, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "61",
@@ -873,11 +873,11 @@
         "attribute": "技",
         "affiliation": "伝道者一派",
         "generation": "第三世代",
-        "role": "必中, デバフ, 大炎上, 炎上"
+        "role": "必中, デバフ, 大炎上, 炎上",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "60",
@@ -889,11 +889,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "体力回復, 挑発, サポート"
+        "role": "体力回復, 挑発, サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "59",
@@ -905,11 +905,11 @@
         "attribute": "技",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ, 封印, 全体攻撃"
+        "role": "デバフ, 封印, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "58",
@@ -921,11 +921,11 @@
         "attribute": "知",
         "affiliation": "不明",
         "generation": "不明",
-        "role": "デバフ, 出血, 全体攻撃"
+        "role": "デバフ, 出血, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "57",
@@ -941,7 +941,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "56",
@@ -953,11 +953,11 @@
         "attribute": "正",
         "affiliation": "第1特殊消防隊",
         "generation": "第二世代",
-        "role": "デバフ, 氷結, 酸素回復"
+        "role": "デバフ, 氷結, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "55",
@@ -969,11 +969,11 @@
         "attribute": "知",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "バフ, 炎上, 全体攻撃"
+        "role": "バフ, 炎上, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "54",
@@ -985,11 +985,11 @@
         "attribute": "力",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "必中, 混乱, 全体攻撃"
+        "role": "必中, 混乱, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "53",
@@ -1001,11 +1001,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "体力回復, サポート, 蘇生"
+        "role": "体力回復, サポート, 蘇生",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "52",
@@ -1021,7 +1021,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "51",
@@ -1033,11 +1033,11 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第二世代",
-        "role": "挑発, 固定ダメ"
+        "role": "挑発, 固定ダメ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "50",
@@ -1049,11 +1049,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "体力回復, サポート"
+        "role": "体力回復, サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "49",
@@ -1065,11 +1065,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, デバフ, 体力回復, 酸素回復"
+        "role": "バフ, デバフ, 体力回復, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "48",
@@ -1081,11 +1081,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "固定ダメ, 全体攻撃"
+        "role": "固定ダメ, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "47",
@@ -1097,11 +1097,11 @@
         "attribute": "力",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "出血, バフ"
+        "role": "出血, バフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "46",
@@ -1113,11 +1113,11 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "麻痺, 全体攻撃"
+        "role": "麻痺, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "45",
@@ -1129,11 +1129,11 @@
         "attribute": "知",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "封印, 全体攻撃"
+        "role": "封印, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "44",
@@ -1145,11 +1145,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "酸素回復, サポート, 体力回復"
+        "role": "酸素回復, サポート, 体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "43",
@@ -1165,7 +1165,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "42",
@@ -1181,7 +1181,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "41",
@@ -1193,11 +1193,11 @@
         "attribute": "悪",
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
-        "role": "体力回復, 酸素回復, 全体攻撃"
+        "role": "体力回復, 酸素回復, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "40",
@@ -1209,11 +1209,11 @@
         "attribute": "正",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "全体攻撃"
+        "role": "全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "39",
@@ -1225,11 +1225,11 @@
         "attribute": "知",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "バフ, 酸素回復"
+        "role": "バフ, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "38",
@@ -1241,11 +1241,11 @@
         "attribute": "正",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": "体力回復"
+        "role": "体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "37",
@@ -1261,7 +1261,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "36",
@@ -1277,7 +1277,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "35",
@@ -1289,11 +1289,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
-        "role": "目眩, 炎上, 2回攻撃"
+        "role": "目眩, 炎上, 2回攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "34",
@@ -1305,11 +1305,11 @@
         "attribute": "悪",
         "affiliation": "伝導者一派",
         "generation": "第二世代",
-        "role": "出血, 麻痺"
+        "role": "出血, 麻痺",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "33",
@@ -1321,11 +1321,11 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "炎上, 全体攻撃"
+        "role": "炎上, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "32",
@@ -1337,11 +1337,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "目眩, 貫通"
+        "role": "目眩, 貫通",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "31",
@@ -1353,11 +1353,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "バフ, デバフ"
+        "role": "バフ, デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "30",
@@ -1369,11 +1369,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "全体攻撃, デバフ"
+        "role": "全体攻撃, デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "29",
@@ -1389,7 +1389,7 @@
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "28",
@@ -1401,11 +1401,11 @@
         "attribute": "知",
         "affiliation": "伝導者一派",
         "generation": "第三世代",
-        "role": "必中, 全体攻撃"
+        "role": "必中, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "27",
@@ -1417,11 +1417,11 @@
         "attribute": "悪",
         "affiliation": "不明",
         "generation": "不明",
-        "role": "出血, 全体攻撃"
+        "role": "出血, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "26",
@@ -1433,11 +1433,11 @@
         "attribute": "知",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "酸素回復, サポート"
+        "role": "酸素回復, サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "25",
@@ -1449,11 +1449,11 @@
         "attribute": "知",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "体力回復, サポート"
+        "role": "体力回復, サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "24",
@@ -1465,11 +1465,11 @@
         "attribute": "力",
         "affiliation": "第7特殊消防隊",
         "generation": "第三世代",
-        "role": "バフ, 挑発"
+        "role": "バフ, 挑発",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "23",
@@ -1481,11 +1481,11 @@
         "attribute": "力",
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
-        "role": "全体攻撃"
+        "role": "全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "22",
@@ -1497,11 +1497,11 @@
         "attribute": "知",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ"
+        "role": "デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "21",
@@ -1513,11 +1513,11 @@
         "attribute": "力",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "挑発"
+        "role": "挑発",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "20",
@@ -1529,11 +1529,11 @@
         "attribute": "悪",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "挑発, 全体攻撃"
+        "role": "挑発, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "19",
@@ -1544,12 +1544,12 @@
         "rarity": "★2",
         "attribute": "知",
         "affiliation": "第5特殊消防隊",
-        "generation": "第三世代",
-        "role": ""
+        "generation": "第三世代"
+        "role": "",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "18",
@@ -1561,11 +1561,11 @@
         "attribute": "悪",
         "affiliation": "第5特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ, 全体攻撃"
+        "role": "デバフ, 全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "17",
@@ -1577,11 +1577,11 @@
         "attribute": "力",
         "affiliation": "第2特殊消防隊",
         "generation": "第三世代",
-        "role": "挑発"
+        "role": "挑発",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "16",
@@ -1593,11 +1593,11 @@
         "attribute": "悪",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": ""
+        "role": "",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "15",
@@ -1609,11 +1609,11 @@
         "attribute": "知",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "体力回復"
+        "role": "体力回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "14",
@@ -1625,11 +1625,11 @@
         "attribute": "技",
         "affiliation": "第1特殊消防隊",
         "generation": "第二世代",
-        "role": "氷結"
+        "role": "氷結",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "13",
@@ -1641,11 +1641,11 @@
         "attribute": "技",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "デバフ"
+        "role": "デバフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     { 
         "id": "12",
@@ -1657,11 +1657,11 @@
         "attribute": "正",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "炎上, 封印"
+        "role": "炎上, 封印",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "11",
@@ -1673,11 +1673,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "体力回復, 酸素回復"
+        "role": "体力回復, 酸素回復",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "10",
@@ -1689,11 +1689,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "バフ"
+        "role": "バフ",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "9",
@@ -1705,11 +1705,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "サポート"
+        "role": "サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "8",
@@ -1721,11 +1721,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "全体攻撃"
+        "role": "全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "7",
@@ -1737,11 +1737,11 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": ""
+        "role": "",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "6",
@@ -1753,11 +1753,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "サポート"
+        "role": "サポート",
         "hp": "",
         "atk": "",
         "def": "",
-        "eva": "",
+        "eva": ""
     },
     {
         "id": "5",
@@ -1769,11 +1769,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "無能力者",
-        "role": "挑発"
+        "role": "挑発",
         "hp": "18,441",
         "atk": "12,602",
         "def": "13,831",
-        "eva": "706",
+        "eva": "706"
     },
     {
         "id": "4",
@@ -1785,11 +1785,11 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "全体攻撃"
+        "role": "全体攻撃",
         "hp": "8,107",
         "atk": "16,214",
         "def": "5,472",
-        "eva": "349",
+        "eva": "349"
     },
     {
         "id": "3",
@@ -1801,11 +1801,11 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": "全体攻撃"
+        "role": "全体攻撃",
         "hp": "11,869",
         "atk": "22,254",
         "def": "9,199",
-        "eva": "682",
+        "eva": "682"
     },
     {
         "id": "2",
@@ -1817,11 +1817,11 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": ""
+        "role": "",
         "hp": "6,359",
         "atk": "16,532",
         "def": "8,054",
-        "eva": "487",
+        "eva": "487"
     },                
     {
         "id": "1",
@@ -1833,10 +1833,10 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第三世代",
-        "role": ""
+        "role": "",
         "hp": "10,618",
         "atk": "22,129",
         "def": "9,478",
-        "eva": "495",
+        "eva": "495"
     }
 ]
