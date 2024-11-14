@@ -50,6 +50,426 @@
         "role": "出血, 全体攻撃"
     },
     {
+        "name": "[アドラバースト]森羅日下部",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第3世代",
+        "role": "目眩, 炎上, 固定ダメ, 酸素回復, 2回攻撃"
+    },
+    {
+        "name": "[揺るがぬ信仰心]フォイェンリィ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "固定ダメ, 貫通, 酸素回復, 単体攻撃"
+    },
+    {
+        "name": "[平和な日常]リサ＆ヴァルカン",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "その他",
+        "generation": "第三世代",
+        "role": "挑発, サポート, 体力回復, 単体攻撃"
+    },
+    {
+        "name": "[射抜けぬ信念]武久火縄",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "貫通, 固定ダメ, 単体攻撃"
+    },
+    {
+        "name": "[幼き覚醒者]ナタク孫",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "灰島重工",
+        "generation": "第三世代",
+        "role": "炎上, 大炎上, 単体攻撃"
+    },
+    {
+        "name": "[死神のおじさん]優一郎黒野",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "灰島重工",
+        "generation": "第三世代",
+        "role": "大出血, デバフ, 単体攻撃"
+    },
+    {
+        "name": "[最強の盾]秋樽桜備",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "体力回復, 挑発, サポート, バフ"
+    },
+    {
+        "name": "[エアトリック]オグン",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第4特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
+    }, 
+    {
+        "name": "[幻影使い]ミラージュ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "挑発, 酸素回復, 単体攻撃"
+    }, 
+    {
+        "name": "[大いなる目的]ハウメア",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "必中, 目眩, デバフ, 全体攻撃"
+    }, 
+    {
+        "name": "[緋色の猫炎尾]環古達",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "知",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃, デバフ"
+    },
+    {
+        "name": "[第7特殊消防隊]新門紅丸",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "力",
+        "affiliation": "第7特殊消防隊",
+        "generation": "煉合能力者",
+        "role": "全体攻撃, 炎上"
+    },
+    {
+        "name": "[新人消防官]森羅日下部",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★6",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
+    },
+    {
+        "name": "[炎ノ化身]レオナルドバーンズ",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "体力回復, 貫通, 単体攻撃"
+    },
+    {
+        "name": "[1周年ノ装]アイリス",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "バフ, デバフ, 酸素回復, 蘇生"
+    },
+    {
+        "name": "[1周年ノ装]アーサーボイル",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "必中, 貫通, 固定ダメ, 2回攻撃, 全体攻撃"
+    },
+    {
+        "name": "[1周年ノ装]森羅日下部",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "必中, 封印, デバフ, 貫通, 固定ダメ, 単体攻撃"
+    },
+    {
+        "name": "[真実の探求者]ジョーカー",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "不明",
+        "generation": "不明",
+        "role": "必中, 混乱, デバフ, 貫通, 単体攻撃"
+    },
+    {
+        "name": "[双炎の狐]ヒナタ＆ヒカゲ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第7特殊消防隊",
+        "generation": "第三世代",
+        "role": "デバフ, 挑発, 体力回復, 単体攻撃"
+    },
+    {
+        "name": "[若の右腕]相模屋紺炉",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第7特殊消防隊",
+        "generation": "第三世代",
+        "role": "バフ, 固定ダメ, 単体攻撃"
+    },
+    {
+        "name": "[灰焰騎士団長]象日下部",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "大出血, デバフ, 単体攻撃"
+    },
+    {
+        "name": "[新年ノ装]新門紅丸",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第7特殊消防隊",
+        "generation": "煉合能力者",
+        "role": "デバフ, 全体攻撃, 2回攻撃"
+    },
+    {
+        "name": "[宇宙を斬リ離ス者]象日下部",
+        "url": "characterC.html",
+        "gacha": "レイド報酬",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "大出血, 単体攻撃"
+    }, 
+    {
+        "name": "[白魔導士]ゼレフ＆ショウ",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute":悪",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "単体攻撃, バフ"
+    },
+    {
+        "name": "[星霊魔導士]ルーシィ＆タマキ",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "挑発, 酸素回復, 体力回復, 単体攻撃"
+    },
+    {
+        "name": "[氷の滅悪魔導士]グレイ＆アーサー",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "氷結, 酸素回復, 全体攻撃"
+    },
+    {
+        "name": "[火の滅竜魔導士]ナツ＆シンラ",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "炎上, 大炎上, 単体攻撃"
+    },
+    {
+        "name": "[熱望探求]ハウメア",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "伝道者一派",
+        "generation": "第三世代",
+        "role": "必中, デバフ, 麻痺, 全体攻撃"
+    },
+    {
+        "name": "[優秀な守り人]アロー",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝道者一派",
+        "generation": "第三世代",
+        "role": "必中, デバフ, 炎上, 単体攻撃"
+    },
+    {
+        "name": "[最強の盾]秋樽桜備",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "体力回復, 挑発, サポート"
+    },
+    {
+        "name": "[いたずらポリス]プリンセス火華",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第5特殊消防隊",
+        "generation": "第三世代",
+        "role": "デバフ, 封印, 全体攻撃"
+    },
+    {
+        "name": "[ペテンな吸血鬼]ジョーカー",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "不明",
+        "generation": "不明",
+        "role": "デバフ, 出血, 全体攻撃"
+    },
+    {
+        "name": "[射抜けぬ信念]武久火縄",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "貫通, 単体攻撃"
+    },
+    {
+        "name": "[冷静沈着]カリムフラム",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第二世代",
+        "role": "デバフ, 氷結, 酸素回復"
+    },
+    {
+        "name": "[ネクロマンサー]リツ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "バフ, 炎上, 全体攻撃"
+    },
+    {
+        "name": "[未来予知]因果春日谷",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "必中, 混乱, 全体攻撃"
+    },
+    {
+        "name": "[穢れ無き聖女]アイリス",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "体力回復, サポート, 蘇生"
+    },
+    {
+        "name": "[優秀な第8補佐]武久火縄",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "バフ, 単体攻撃"
+    },
+    {
+        "name": "[不動不屈]カロン",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "generation": "第二世代",
+        "role": "挑発, 固定ダメ, 単体攻撃"
+    },
+    {
+        "name": "[天空の騎士]アーサーボイル",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "体力回復, サポート, 単体攻撃"
+    },
+    {
+        "name": "[サマースクール]環古達",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "バフ, デバフ, 体力回復, 酸素回復, 単体攻撃"
+    },
+    {
+        "name": "[浜辺のアスリート]茉希尾瀬",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "固定ダメ, 全体攻撃, 単体攻撃"
+    },
+    {
         "name": "[英雄の弟]象日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -120,6 +540,46 @@
         "role": "体力回復, 酸素回復, 全体攻撃"
     },
     {
+        "name": "[戦況を変える男]龍宮寺堅",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "単体攻撃, 全体攻撃"
+    },
+    {
+        "name": "[壱番隊副隊長]松野千冬",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "バフ, 酸素回復"
+    },
+    {
+        "name": "[泣き虫のヒーロー]花垣武道",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "体力回復, 単体攻撃"
+    },
+    {
+        "name": "[無敵のマイキー]佐野万次郎",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "単体攻撃"
+    },
+    {
         "name": "[悪魔の喧嘩師]森羅日下部",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -150,7 +610,7 @@
         "role": "出血, 麻痺, 単体攻撃"
     },
     {
-        "name": "[灰焔騎士団]リサ漁辺",
+        "name": "[灰焰騎士団]リサ漁辺",
         "url": "characterC.html",
         "gacha": "恒常",
         "rarity": "★3",
@@ -190,7 +650,7 @@
         "role": "全体攻撃, デバフ"
     },
     {
-        "name": "[灰焔騎士団]ハラン",
+        "name": "[灰焰騎士団]ハラン",
         "url": "characterC.html",
         "gacha": "恒常",
         "rarity": "★3",
@@ -200,7 +660,7 @@
         "role": "挑発, 単体攻撃"
     },
     {
-        "name": "[灰焔騎士団]アロー",
+        "name": "[灰焰騎士団]アロー",
         "url": "characterC.html",
         "gacha": "恒常",
         "rarity": "★3",
