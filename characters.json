@@ -7,7 +7,7 @@
         "attribute": "力",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "酸素回復, 体力回復"
+        "role": "酸素回復, 体力回復, 貫通"
     },
     {
         "name": "[スリルを求めて]因果春日谷",
@@ -48,6 +48,116 @@
         "affiliation": "不明",
         "generation": "不明",
         "role": "出血, 全体攻撃"
+    },
+    {
+        "name": "[使命への献身]カロン",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝導者一派",
+        "generation": "第二世代",
+        "role": "挑発, 固定ダメ, 全体攻撃"
+    },
+    {
+        "name": "[湧き出す乙女心]茉希尾瀬",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "デバフ, 単体攻撃"
+    },
+    {
+        "name": "[優秀な守り人]アロー",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝道者一派",
+        "generation": "第三世代",
+        "role": "必中, デバフ, 炎上, 単体攻撃"
+    },
+    {
+        "name": "[熱望探求]ハウメア",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★6",
+        "attribute": "力",
+        "affiliation": "伝道者一派",
+        "generation": "第三世代",
+        "role": "必中, デバフ, 麻痺, 全体攻撃"
+    },
+    {
+        "name": "[優秀な守り人]アロー",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★6",
+        "attribute": "技",
+        "affiliation": "伝道者一派",
+        "generation": "第三世代",
+        "role": "必中, 貫通, デバフ, 炎上, 単体攻撃"
+    },
+    {
+        "name": "[計り知れぬ潜在力]ナタク孫",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "灰島重工",
+        "generation": "第三世代",
+        "role": "固定ダメ, 全体攻撃"
+    },
+    {
+        "name": "[炎夏筆頭]新門紅丸",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "第7特殊消防隊",
+        "generation": "煉合能力者",
+        "role": "バフ, 全体攻撃, 貫通"
+    },
+    {
+        "name": "[マッスルウェア]ハウメア",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute":"知",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "挑発, 固定ダメ, 体力回復"
+    },
+    {
+        "name": "[異装団長]象日下部",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "必中, 酸素回復, 単体攻撃"
+    },
+    {
+        "name": "[褪せない思い]ミカサアッカーマン",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "貫通, 酸素回復, 単体攻撃"
+    },
+    {
+        "name": "[消えない約束]エレンイェーガー",
+        "url": "characterC.html",
+        "gacha": "コラボ",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "その他",
+        "generation": "無能力者",
+        "role": "2回攻撃, 貫通, 酸素回復"
     },
     {
         "name": "[天空の騎士]アーサーボイル",
@@ -177,7 +287,7 @@
         "attribute": "技",
         "affiliation": "その他",
         "generation": "第三世代",
-        "role": "挑発, サポート, 体力回復, 単体攻撃"
+        "role": "挑発, 必中, 貫通, 体力回復, 単体攻撃"
     },
     {
         "name": "[射抜けぬ信念]武久火縄",
