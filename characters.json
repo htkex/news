@@ -50,6 +50,56 @@
         "role": "出血, 全体攻撃"
     },
     {
+        "name": "[バカンスグラス]アロー",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "目眩, 全体攻撃, 酸素回復"
+    },
+    {
+        "name": "[常夏の女王]プリンセス火華",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★6",
+        "attribute": "知",
+        "affiliation": "第5特殊消防隊",
+        "generation": "第三世代",
+        "role": "封印, 全体攻撃, 単体攻撃"
+    },
+    {
+        "name": "[渚の聖女]アイリス",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★6",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "酸素回復, サポート, 体力回復"
+    },
+    {
+       "name": "[サマースクール]環古達",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★6",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "バフ, デバフ, 体力回復, 酸素回復, 単体攻撃"
+    },
+    {
+        "name": "[浜辺のアスリート]茉希尾瀬",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★6",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "固定ダメ, 全体攻撃, 酸素回復"
+    },
+    {
         "name": "[パワーホイッスル]パートコパーン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -507,7 +557,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "固定ダメ, 全体攻撃, 単体攻撃"
+        "role": "固定ダメ, 全体攻撃"
     },
     {
         "name": "[英雄の弟]象日下部",
