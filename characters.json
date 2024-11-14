@@ -324,7 +324,7 @@
         "url": "characterC.html",
         "gacha": "コラボ",
         "rarity": "★3",
-        "attribute":悪",
+        "attribute":"悪",
         "affiliation": "その他",
         "generation": "無能力者",
         "role": "単体攻撃, バフ"
