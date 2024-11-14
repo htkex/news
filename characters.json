@@ -50,6 +50,16 @@
         "role": "出血, 全体攻撃"
     },
     {
+        "name": "[天空の騎士]アーサーボイル",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第三世代",
+        "role": "固定ダメ, 体力回復, サポート, 単体攻撃"
+    },
+    {
         "name": "[バカンスグラス]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
