@@ -50,6 +50,206 @@
         "role": "出血, 全体攻撃"
     },
     {
+        "name": "[英雄の弟]象日下部",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "出血, バフ, 単体攻撃"
+    },
+    {
+        "name": "[伝導者麾下]ハウメア",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "麻痺, 全体攻撃"
+    },
+    {
+        "name": "[常夏の女王]プリンセス火華",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第5特殊消防隊",
+        "generation": "第三世代",
+        "role": "封印, 全体攻撃, 単体攻撃"
+    },
+    {
+        "name": "[渚の聖女]アイリス",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "酸素回復, サポート, 体力回復"
+    },
+    {
+        "name": "[熱血神父]烈火星宮",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "単体攻撃"
+    },
+    {
+        "name": "[浅草の暴走王]新門紅丸",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第7特殊消防隊",
+        "generation": "煉合能力者",
+        "role": "全体攻撃"
+    },
+    {
+        "name": "[弐等消防官]アーサーボイル",
+        "url": "characterC.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第3世代",
+        "role": "体力回復, 酸素回復, 全体攻撃"
+    },
+    {
+        "name": "[悪魔の喧嘩師]森羅日下部",
+        "url": "characterC.html",
+        "gacha": "イベント配布",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第3世代",
+        "role": "バフ, 単体攻撃"
+    },
+    {
+        "name": "[アドラバースト]森羅日下部",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "正",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第3世代",
+        "role": "目眩, 炎上, 2回攻撃, 単体攻撃"
+    },
+    {
+        "name": "[第3特殊消防隊]Dr.ジョバンニ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "generation": "第二世代",
+        "role": "出血, 麻痺, 単体攻撃"
+    },
+    {
+        "name": "[灰焔騎士団]リサ漁辺",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "炎上, 全体攻撃"
+    },
+    {
+        "name": "[第8特殊消防隊]ヴァルカンジョセフ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "力",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "目眩, 貫通, 単体攻撃"
+    },
+    {
+        "name": "[第8特殊消防隊]ヴィクトルリヒト",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "第8特殊消防隊",
+        "generation": "無能力者",
+        "role": "バフ, デバフ"
+    },
+    {
+        "name": "[炎を操る魔女]茉希尾瀬",
+        "url": "characterC.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第8特殊消防隊",
+        "generation": "第二世代",
+        "role": "全体攻撃, デバフ"
+    },
+    {
+        "name": "[灰焔騎士団]ハラン",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "伝導者一派",
+        "generation": "第一世代",
+        "role": "挑発, 単体攻撃"
+    },
+    {
+        "name": "[灰焔騎士団]アロー",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "知",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "必中, 全体攻撃"
+    },
+    {
+        "name": "[影の暗躍者]ジョーカー",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★3",
+        "attribute": "悪",
+        "affiliation": "不明",
+        "generation": "不明",
+        "role": "出血, 全体攻撃"
+    },
+    {
+        "name": "[第7特殊消防隊]ヒカゲ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★2",
+        "attribute": "知",
+        "affiliation": "第7特殊消防隊",
+        "generation": "第三世代",
+        "role": "酸素回復, サポート"
+    },
+    {
+        "name": "[第7特殊消防隊]ヒナタ",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★2",
+        "attribute": "知",
+        "affiliation": "第7特殊消防隊",
+        "generation": "第三世代",
+        "role": "体力回復, サポート"
+    },
+    {
+        "name": "[第7特殊消防隊]相模屋紺炉",
+        "url": "characterC.html",
+        "gacha": "恒常",
+        "rarity": "★2",
+        "attribute": "力",
+        "affiliation": "第7特殊消防隊",
+        "generation": "第三世代",
+        "role": "バフ, 挑発"
+    },
+    {
         "name": "[第7特殊消防隊]新門紅丸",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -60,14 +260,14 @@
         "role": "全体攻撃"
     },
     {
-        "name": "[色の猫炎尾]環古達",
+        "name": "[緋色の猫炎尾]環古達",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
         "rarity": "★3",
         "attribute": "知",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": "単体攻撃, デバフ"
     },
     {
         "name": "[第1特殊消防隊]レオナルドバーンズ",
@@ -157,7 +357,7 @@
         "attribute": "技",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": "単体攻撃"
+        "role": "単体攻撃, デバフ"
     },
     {
         "name": "[第1特殊消防隊]環古達",
@@ -187,7 +387,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "アタッカー"
+        "role": "バフ, 単体攻撃"
     },
     {
         "name": "[第8特殊消防隊]茉希尾瀬",
@@ -197,7 +397,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "アタッカー"
+        "role": "単体攻撃, サポート"
     },
     {
         "name": "[鬼の中隊長]武久火縄",
@@ -207,7 +407,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "アタッカー"
+        "role": "全体攻撃"
     },
     {
         "name": "[第8特殊消防隊]武久火縄",
@@ -217,7 +417,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "アタッカー"
+        "role": "単体攻撃"
     },
     {
         "name": "[無能力者の戦い]秋樽桜備",
