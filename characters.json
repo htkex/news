@@ -937,7 +937,7 @@
         "attribute": "知",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "貫通"
+        "role": "貫通",
         "hp": "",
         "atk": "",
         "def": "",
@@ -1017,7 +1017,7 @@
         "attribute": "正",
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
-        "role": "バフ"
+        "role": "バフ",
         "hp": "",
         "atk": "",
         "def": "",
@@ -1161,7 +1161,7 @@
         "attribute": "悪",
         "affiliation": "第1特殊消防隊",
         "generation": "第三世代",
-        "role": ""
+        "role": "",
         "hp": "",
         "atk": "",
         "def": "",
@@ -1177,7 +1177,7 @@
         "attribute": "技",
         "affiliation": "第7特殊消防隊",
         "generation": "煉合能力者",
-        "role": "全体攻撃"
+        "role": "全体攻撃",
         "hp": "",
         "atk": "",
         "def": "",
@@ -1257,7 +1257,7 @@
         "attribute": "力",
         "affiliation": "その他",
         "generation": "無能力者",
-        "role": ""
+        "role": "",
         "hp": "",
         "atk": "",
         "def": "",
@@ -1273,7 +1273,7 @@
         "attribute": "技",
         "affiliation": "第8特殊消防隊",
         "generation": "第3世代",
-        "role": "バフ"
+        "role": "バフ",
         "hp": "",
         "atk": "",
         "def": "",
@@ -1385,7 +1385,7 @@
         "attribute": "技",
         "affiliation": "伝導者一派",
         "generation": "第一世代",
-        "role": "挑発"
+        "role": "挑発",
         "hp": "",
         "atk": "",
         "def": "",
