@@ -1,5 +1,21 @@
 [
     {
+        "id": "116",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_115.jpg?raw=true",
+        "name": "[清楚華憐]環古達",
+        "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第1特殊消防隊",
+        "generation": "第三世代",
+        "role": "目眩, デバフ, 酸素回復",
+        "hp": "14,069",
+        "atk": "12,707",
+        "def": "16,338",
+        "eva": "1,815"
+    },
+    {
         "id": "115",
         "imageUrl": "https://github.com/htkex/character-images/blob/main/image_115.jpg?raw=true",
         "name": "[秋の野営地]武久火縄",
@@ -10,10 +26,10 @@
         "affiliation": "第8特殊消防隊",
         "generation": "第二世代",
         "role": "酸素回復, 体力回復, 貫通",
-        "hp": "",
-        "atk": "",
-        "def": "",
-        "eva": ""
+        "hp": "24,304",
+        "atk": "6,076",
+        "def": "20,253",
+        "eva": "1,687"
     },
     {
         "id": "114",
