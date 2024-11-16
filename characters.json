@@ -33,7 +33,7 @@
     },
     {
         "id": "114",
-        "image": "https://github.com/htkex/character-images/blob/main/image_114.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_114.jpg?raw=true",
         "name": "[スリルを求めて]因果春日谷",
         "url": "characterB.html",
         "gacha": "大炎舞祭",
@@ -49,7 +49,7 @@
     },
     {
         "id": "113",
-        "image": "https://github.com/htkex/character-images/blob/main/image_113.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_113.jpg?raw=true",
         "name": "[サタンの微笑み]森羅日下部",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -65,7 +65,7 @@
     },
     {
         "id": "112",
-        "image": "https://github.com/htkex/character-images/blob/main/image_112.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_112.jpg?raw=true",
         "name": "[いたずらポリス]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -81,7 +81,7 @@
     },
     {
         "id": "111",
-        "image": "https://github.com/htkex/character-images/blob/main/image_111.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_111.jpg?raw=true",
         "name": "[ペテンな吸血鬼]ジョーカー",
         "url": "characterC.html",
         "gacha": "期間限定",
