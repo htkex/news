@@ -1,5 +1,37 @@
 [
     {
+        "id": "118",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_116.jpg?raw=true",
+        "name": "[癒しの唄]アサコ・アーグ",
+        "url": "https://fireforce-game.blogspot.com/p/css-margin-0-padding-0-box-sizing_17.html",
+        "gacha": "期間限定",
+        "rarity": "★3",
+        "attribute": "技",
+        "affiliation": "第6特殊消防隊",
+        "generation": "第三世代",
+        "role": "蘇生, 酸素回復, 体力回復",
+        "hp": "14,069",
+        "atk": "12,707",
+        "def": "16,338",
+        "eva": "1,815"
+    },
+    {
+        "id": "117",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_116.jpg?raw=true",
+        "name": "[灰焰騎士団長]象日下部",
+        "url": "https://fireforce-game.blogspot.com/p/css-margin-0-padding-0-box-sizing_17.html",
+        "gacha": "大炎舞祭",
+        "rarity": "★6",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "generation": "第三世代",
+        "role": "大出血, デバフ, 体力回復",
+        "hp": "14,069",
+        "atk": "12,707",
+        "def": "16,338",
+        "eva": "1,815"
+    },
+    {
         "id": "116",
         "imageUrl": "https://github.com/htkex/character-images/blob/main/image_116.jpg?raw=true",
         "name": "[清楚華憐]環古達",
