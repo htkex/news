@@ -98,7 +98,7 @@
     },
     {
         "id": "113",
-        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_113.JPG",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_113.jpg",
         "name": "[サタンの微笑み]森羅日下部",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -146,7 +146,7 @@
     },
     {
         "id": "110",
-        "image": "https://github.com/htkex/character-images/blob/main/image_110.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_110.jpg?raw=true",
         "name": "[使命への献身]カロン",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -162,7 +162,7 @@
     },
     {
         "id": "109",
-        "image": "https://github.com/htkex/character-images/blob/main/image_109.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_109.jpg?raw=true",
         "name": "[湧き出す乙女心]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -178,7 +178,7 @@
     },
     {
         "id": "108",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_108.jpg?raw=true",
         "name": "[熱望探求]ハウメア",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -194,7 +194,7 @@
     },
     {
         "id": "107",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_107.jpg?raw=true",
         "name": "[優秀な守り人]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -210,7 +210,7 @@
     },
     {
         "id": "106",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_106.jpg?raw=true",
         "name": "[計り知れぬ潜在力]ナタク孫",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -226,7 +226,7 @@
     },
     {
         "id": "105",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_105.jpg?raw=true",
         "name": "[炎夏筆頭]新門紅丸",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -242,7 +242,7 @@
     },
     {
         "id": "104",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_104.jpg?raw=true",
         "name": "[マッスルウェア]ハウメア",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -258,7 +258,7 @@
     },
     {
         "id": "103",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_103.jpg?raw=true",
         "name": "[異装団長]象日下部",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -274,7 +274,7 @@
     },
     {
         "id": "102",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_102.jpg?raw=true",
         "name": "[褪せない思い]ミカサアッカーマン",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -290,7 +290,7 @@
     },
     {
         "id": "101",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_101.jpg?raw=true",
         "name": "[消えない約束]エレンイェーガー",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -306,7 +306,7 @@
     },
     {
         "id": "100",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_100.jpg?raw=true",
         "name": "[天空の騎士]アーサーボイル",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -322,7 +322,7 @@
     },
     {
         "id": "99",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_99.jpg?raw=true",
         "name": "[バカンスグラス]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -338,7 +338,7 @@
     },
     {
         "id": "98",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_98.jpg?raw=true",
         "name": "[常夏の女王]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -354,7 +354,7 @@
     },
     {
         "id": "97",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_97.jpg?raw=true",
         "name": "[渚の聖女]アイリス",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -370,7 +370,7 @@
     },
     {
         "id": "96",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_96.jpg?raw=true",
         "name": "[サマースクール]環古達",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -386,7 +386,7 @@
     },
     {
         "id": "95",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_95.jpg?raw=true",
         "name": "[浜辺のアスリート]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -402,7 +402,7 @@
     },
     {
         "id": "94",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_94.jpg?raw=true",
         "name": "[パワーホイッスル]パートコパーン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -418,7 +418,7 @@
     },
     {
         "id": "93",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_93.jpg?raw=true",
         "name": "[弱者狩り]優一郎黒野",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -434,7 +434,7 @@
     },
     {
         "id": "92",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_92.jpg?raw=true",
         "name": "[熱血神父]烈火星宮",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -450,7 +450,7 @@
     },
     {
         "id": "91",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_91.jpg?raw=true",
         "name": "[炎を操る魔女]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -466,7 +466,7 @@
     },
     {
         "id": "90",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_90.jpg?raw=true",
         "name": "[アドラバースト]森羅日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -482,7 +482,7 @@
     },
     {
         "id": "89",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_89.jpg?raw=true",
         "name": "[揺るがぬ信仰心]フォイェンリィ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -498,7 +498,7 @@
     },
     {
         "id": "88",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_88.jpg?raw=true",
         "name": "[平和な日常]リサ＆ヴァルカン",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -514,7 +514,7 @@
     },
     {
         "id": "87",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_87.jpg?raw=true",
         "name": "[射抜けぬ信念]武久火縄",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -530,7 +530,7 @@
     },
     {
         "id": "86",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_86.jpg?raw=true",
         "name": "[幼き覚醒者]ナタク孫",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -546,7 +546,7 @@
     },
     {
         "id": "85",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_85.jpg?raw=true",
         "name": "[死神のおじさん]優一郎黒野",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -562,7 +562,7 @@
     },
     {
         "id": "84",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_84.jpg?raw=true",
         "name": "[最強の盾]秋樽桜備",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -578,7 +578,7 @@
     },
     {
         "id": "83",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_83.jpg?raw=true",
         "name": "[エアトリック]オグン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -594,7 +594,7 @@
     }, 
     {
         "id": "82",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_82rl.jpg?raw=true",
         "name": "[幻影使い]ミラージュ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -610,7 +610,7 @@
     }, 
     {
         "id": "81",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_81.jpg?raw=true",
         "name": "[大いなる目的]ハウメア",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -626,7 +626,7 @@
     }, 
     {
         "id": "80",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_80.jpg?raw=true",
         "name": "[緋色の猫炎尾]環古達",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -642,7 +642,7 @@
     },
     {
         "id": "79",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_79.jpg?raw=true",
         "name": "[第7特殊消防隊]新門紅丸",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -658,7 +658,7 @@
     },
     {
         "id": "78",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_78.jpg?raw=true",
         "name": "[新人消防官]森羅日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -674,7 +674,7 @@
     },
     {
         "id": "77",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_77.jpg?raw=true",
         "name": "[炎ノ化身]レオナルドバーンズ",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -690,7 +690,7 @@
     },
     {
         "id": "76",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_76.jpg?raw=true",
         "name": "[1周年ノ装]アイリス",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -706,7 +706,7 @@
     },
     {
         "id": "75",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_75.jpg?raw=true",
         "name": "[豪炎剛球]フレイル",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -722,7 +722,7 @@
     },
     {
         "id": "74",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_74.jpg?raw=true",
         "name": "[1周年ノ装]アーサーボイル",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -738,7 +738,7 @@
     },
     {
         "id": "73",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_73.jpg?raw=true",
         "name": "[1周年ノ装]森羅日下部",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -754,7 +754,7 @@
     },
     {
         "id": "72",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_72.jpg?raw=true",
         "name": "[真実の探求者]ジョーカー",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -770,7 +770,7 @@
     },
     {
         "id": "71",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_71.jpg?raw=true",
         "name": "[双炎の狐]ヒナタ＆ヒカゲ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -786,7 +786,7 @@
     },
     {
         "id": "70",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_70.jpg?raw=true",
         "name": "[若の右腕]相模屋紺炉",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -802,7 +802,7 @@
     },
     {
         "id": "69",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_69.jpg?raw=true",
         "name": "[灰焰騎士団長]象日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -818,7 +818,7 @@
     },
     {
         "id": "68",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_68.jpg?raw=true",
         "name": "[新年ノ装]新門紅丸",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -834,7 +834,7 @@
     },
     {
         "id": "67",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_67.jpg?raw=true",
         "name": "[宇宙を斬リ離ス者]象日下部",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -850,7 +850,7 @@
     },
     {
         "id": "66",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_66.jpg?raw=true",
         "name": "[白魔導士]ゼレフ＆ショウ",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -866,7 +866,7 @@
     },
     {
         "id": "65",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_65.jpg?raw=true",
         "name": "[星霊魔導士]ルーシィ＆タマキ",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -882,7 +882,7 @@
     },
     {
         "id": "64",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_64.jpg?raw=true",
         "name": "[氷の滅悪魔導士]グレイ＆アーサー",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -898,7 +898,7 @@
     },
     {
         "id": "63",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_63.jpg?raw=true",
         "name": "[火の滅竜魔導士]ナツ＆シンラ",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -914,7 +914,7 @@
     },
     {
         "id": "62",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_62.jpg?raw=true",
         "name": "[熱望探求]ハウメア",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -930,7 +930,7 @@
     },
     {
         "id": "61",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_61.jpg?raw=true",
         "name": "[優秀な守り人]アロー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -946,7 +946,7 @@
     },
     {
         "id": "60",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_60.jpg?raw=true",
         "name": "[最強の盾]秋樽桜備",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -962,7 +962,7 @@
     },
     {
         "id": "59",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_59.jpg?raw=true",
         "name": "[いたずらポリス]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -978,7 +978,7 @@
     },
     {
         "id": "58",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_58.jpg?raw=true",
         "name": "[ペテンな吸血鬼]ジョーカー",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -994,7 +994,7 @@
     },
     {
         "id": "57",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_57.jpg?raw=true",
         "name": "[射抜けぬ信念]武久火縄",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1010,7 +1010,7 @@
     },
     {
         "id": "56",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_56.jpg?raw=true",
         "name": "[冷静沈着]カリムフラム",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1026,7 +1026,7 @@
     },
     {
         "id": "55",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_55.jpg?raw=true",
         "name": "[ネクロマンサー]リツ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1042,7 +1042,7 @@
     },
     {
         "id": "54",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_54.jpg?raw=true",
         "name": "[未来予知]因果春日谷",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1058,7 +1058,7 @@
     },
     {
         "id": "53",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_53.jpg?raw=true",
         "name": "[穢れ無き聖女]アイリス",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1074,7 +1074,7 @@
     },
     {
         "id": "52",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_52.jpg?raw=true",
         "name": "[優秀な第8補佐]武久火縄",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1090,7 +1090,7 @@
     },
     {
         "id": "51",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_51.jpg?raw=true",
         "name": "[不動不屈]カロン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1106,7 +1106,7 @@
     },
     {
         "id": "50",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_50.jpg?raw=true",
         "name": "[天空の騎士]アーサーボイル",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1122,7 +1122,7 @@
     },
     {
         "id": "49",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_49.jpg?raw=true",
         "name": "[サマースクール]環古達",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -1138,7 +1138,7 @@
     },
     {
         "id": "48",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_48.jpg?raw=true",
         "name": "[浜辺のアスリート]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -1154,7 +1154,7 @@
     },
     {
         "id": "47",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_47.jpg?raw=true",
         "name": "[英雄の弟]象日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1170,7 +1170,7 @@
     },
     {
         "id": "46",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_46.jpg?raw=true",
         "name": "[伝導者麾下]ハウメア",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1186,7 +1186,7 @@
     },
     {
         "id": "45",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_45.jpg?raw=true",
         "name": "[常夏の女王]プリンセス火華",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -1202,7 +1202,7 @@
     },
     {
         "id": "44",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_44.jpg?raw=true",
         "name": "[渚の聖女]アイリス",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -1218,7 +1218,7 @@
     },
     {
         "id": "43",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_43.jpg?raw=true",
         "name": "[熱血神父]烈火星宮",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1234,7 +1234,7 @@
     },
     {
         "id": "42",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_42.jpg?raw=true",
         "name": "[浅草の暴走王]新門紅丸",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -1250,7 +1250,7 @@
     },
     {
         "id": "41",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_41.jpg?raw=true",
         "name": "[弐等消防官]アーサーボイル",
         "url": "characterC.html",
         "gacha": "期間限定",
@@ -1266,7 +1266,7 @@
     },
     {
         "id": "40",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_40.jpg?raw=true",
         "name": "[戦況を変える男]龍宮寺堅",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -1282,7 +1282,7 @@
     },
     {
         "id": "39",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_39.jpg?raw=true",
         "name": "[壱番隊副隊長]松野千冬",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -1298,7 +1298,7 @@
     },
     {
         "id": "38",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_38.jpg?raw=true",
         "name": "[泣き虫のヒーロー]花垣武道",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -1314,7 +1314,7 @@
     },
     {
         "id": "37",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_37.jpg?raw=true",
         "name": "[無敵のマイキー]佐野万次郎",
         "url": "characterC.html",
         "gacha": "コラボ",
@@ -1330,7 +1330,7 @@
     },
     {
         "id": "36",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_36.jpg?raw=true",
         "name": "[悪魔の喧嘩師]森羅日下部",
         "url": "characterC.html",
         "gacha": "イベント配布",
@@ -1346,7 +1346,7 @@
     },
     {
         "id": "35",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_35.jpg?raw=true",
         "name": "[アドラバースト]森羅日下部",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1362,7 +1362,7 @@
     },
     {
         "id": "34",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_34.jpg?raw=true",
         "name": "[第3特殊消防隊]Dr.ジョバンニ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1378,7 +1378,7 @@
     },
     {
         "id": "33",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_33.jpg?raw=true",
         "name": "[灰焰騎士団]リサ漁辺",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1394,7 +1394,7 @@
     },
     {
         "id": "32",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_32.jpg?raw=true",
         "name": "[第8特殊消防隊]ヴァルカンジョセフ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1410,7 +1410,7 @@
     },
     {
         "id": "31",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_31.jpg?raw=true",
         "name": "[第8特殊消防隊]ヴィクトルリヒト",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1426,7 +1426,7 @@
     },
     {
         "id": "30",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_30.jpg?raw=true",
         "name": "[炎を操る魔女]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1442,7 +1442,7 @@
     },
     {
         "id": "29",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_29.jpg?raw=true",
         "name": "[灰焰騎士団]ハラン",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1458,7 +1458,7 @@
     },
     {
         "id": "28",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_28.jpg?raw=true",
         "name": "[灰焰騎士団]アロー",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1474,7 +1474,7 @@
     },
     {
         "id": "27",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_27.jpg?raw=true",
         "name": "[影の暗躍者]ジョーカー",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1490,7 +1490,7 @@
     },
     {
         "id": "26",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_26.jpg?raw=true",
         "name": "[第7特殊消防隊]ヒカゲ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1506,7 +1506,7 @@
     },
     {
         "id": "25",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_25.jpg?raw=true",
         "name": "[第7特殊消防隊]ヒナタ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1522,7 +1522,7 @@
     },
     {
         "id": "24",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_24.jpg?raw=true",
         "name": "[第7特殊消防隊]相模屋紺炉",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1538,7 +1538,7 @@
     },
     {
         "id": "23",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_23.jpg?raw=true",
         "name": "[第7特殊消防隊]新門紅丸",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1554,7 +1554,7 @@
     },
     {
         "id": "22",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_22.jpg?raw=true",
         "name": "[緋色の猫炎尾]環古達",
         "url": "characterC.html",
         "gacha": "大炎舞祭",
@@ -1570,7 +1570,7 @@
     },
     {
         "id": "21",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_21.jpg?raw=true",
         "name": "[第1特殊消防隊]レオナルドバーンズ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1586,7 +1586,7 @@
     },
     {
         "id": "20",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_20.jpg?raw=true",
         "name": "[第5特殊消防隊]トオル岸理",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1602,7 +1602,7 @@
     },
     {
         "id": "19",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_19.jpg?raw=true",
         "name": "[第5特殊消防隊]5thエンジェルス3",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1618,7 +1618,7 @@
     },
     {
         "id": "18",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_18.jpg?raw=true",
         "name": "[第5特殊消防隊]プリンセス火華",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1634,7 +1634,7 @@
     },
     {
         "id": "17",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_17.jpg?raw=true",
         "name": "[第2特殊消防隊]武能登",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1650,7 +1650,7 @@
     },
     {
         "id": "16",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_16.jpg?raw=true",
         "name": "[第1特殊消防隊]烈火星宮",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1666,7 +1666,7 @@
     },
     {
         "id": "15",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_15.jpg?raw=true",
         "name": "[第1特殊消防隊]フォイェンリィ",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1682,7 +1682,7 @@
     },
     {
         "id": "14",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_14.jpg?raw=true",
         "name": "[第1特殊消防隊]カリムフラム",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1698,7 +1698,7 @@
     },
     {
         "id": "13",
-        "image": "",
+       "imageUrl": "https://github.com/htkex/character-images/blob/main/image_13.jpg?raw=true",
         "name": "[特異体質？]環古達",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1714,7 +1714,7 @@
     },
     { 
         "id": "12",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_12.jpg?raw=true",
         "name": "[第1特殊消防隊]環古達",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1730,7 +1730,7 @@
     },
     {
         "id": "11",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_11.jpg?raw=true",
         "name": "[第8特殊消防隊]アイリス",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1746,7 +1746,7 @@
     },
     {
         "id": "10",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_10.jpg?raw=true",
         "name": "[第8の魔女]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1762,7 +1762,7 @@
     },
     {
         "id": "9",
-        "image": "",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_9.jpg?raw=true",
         "name": "[第8特殊消防隊]茉希尾瀬",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1778,7 +1778,7 @@
     },
     {
         "id": "8",
-        "image": "https://github.com/htkex/character-images/blob/main/image_8.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_8.jpg?raw=true",
         "name": "[鬼の中隊長]武久火縄",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1794,7 +1794,7 @@
     },
     {
         "id": "7",
-        "image": "https://github.com/htkex/character-images/blob/main/image_7.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_7.jpg?raw=true",
         "name": "[第8特殊消防隊]武久火縄",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1810,7 +1810,7 @@
     },
     {
         "id": "6",
-        "image": "https://github.com/htkex/character-images/blob/main/image_6.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_6.jpg?raw=true",
         "name": "[無能力者の戦い]秋樽桜備",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1826,7 +1826,7 @@
     },
     {
         "id": "5",
-        "image": "https://github.com/htkex/character-images/blob/main/image_5.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_5.jpg?raw=true",
         "name": "[第8特殊消防隊]秋樽桜備",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1842,7 +1842,7 @@
     },
     {
         "id": "4",
-        "image": "https://github.com/htkex/character-images/blob/main/image_4.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_4.jpg?raw=true",
         "name": "[白馬の騎士]アーサーボイル",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1858,7 +1858,7 @@
     },
     {
         "id": "3",
-        "image": "https://github.com/htkex/character-images/blob/main/image_3.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_3.jpg?raw=true",
         "name": "[第8特殊消防隊]アーサーボイル",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1874,7 +1874,7 @@
     },
     {
         "id": "2",
-        "image": "https://github.com/htkex/character-images/blob/main/image_2.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_2.jpg?raw=true",
         "name": "[新人消防官]森羅日下部",
         "url": "characterC.html",
         "gacha": "恒常",
@@ -1890,7 +1890,7 @@
     },                
     {
         "id": "1",
-        "image": "https://github.com/htkex/character-images/blob/main/image_1.jpg?raw=true",
+        "imageUrl": "https://github.com/htkex/character-images/blob/main/image_1.jpg?raw=true",
         "name": "[第8特殊消防隊]森羅日下部",
         "url": "characterC.html",
         "gacha": "恒常",
